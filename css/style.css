@@ -31,13 +31,13 @@ header{
 .second-block{
     background-color: #0185ff;
     margin-top: 30px;
-    height: 700px;
+    padding-bottom: 10px;
 }
 
 .top{
     background-color: #abcfe7;
     height: 100px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .section-left{
@@ -47,17 +47,19 @@ header{
     float: left;
 }
 
+.section-centre{
+    background-color: #abcfe7;
+    min-height: 560px;
+    margin: 0% 2%; 
+    float: left;
+    width: 56%;
+}
+
 .section-right{
     background-color: #abcfe7;
     min-height: 560px;
     width: 20%;
-    float: right;
-}
-
-.section-centre{
-    background-color: #abcfe7;
-    min-height: 560px;
-    margin: 0% 22%; 
+    float: left;
 }
 
 footer{
