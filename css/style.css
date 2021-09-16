@@ -1,7 +1,30 @@
-body{
-    width: 80%;
+.container{
+    margin-left:10%;
+    margin-right:10%;
+    box-sizing: border-box;
 }
 
 header{
     background-color: violet;
+    margin-top: 30px;
+    height: 150px;
+}
+
+.first-block{
+    background-color: burlywood;
+    margin-top: 30px;
+    height: 500px;
+}
+
+.second-block{
+    background-color: lightskyblue;
+    margin-top: 30px;
+    height: 700px;
+}
+
+footer{
+    background-color: purple;
+    margin-top: 10px;
+    height: 70px;
+    margin-bottom: 30px;
 }
