@@ -36,7 +36,7 @@ header{
 
 .top{
     background-color: #abcfe7;
-    height: 100px;
+    min-height: 100px;
     margin-bottom: 10px;
 }
 
